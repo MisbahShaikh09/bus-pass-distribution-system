@@ -1,7 +1,22 @@
-# Week_3_2542010
-#Menu driven Bus Pass Distribution System using Circular Queue
-This program is a menu driven Bus Pass Distribution System written in C.
-It uses the concept of Circular Queue to manage students waiting for bus passes.
-In this program Students are added to the waiting list using enqueue operation.
-When a bus pass is distributed, the student is removed from the queue.
-Only the remaining students are shown in the waiting list.
+# Bus Pass Distribution System
+
+## Overview
+A menu-driven Bus Pass Distribution System developed in C using the Circular Queue data structure.
+
+## Features
+- Add students to the waiting list
+- Distribute bus passes in FIFO order
+- Display waiting students
+- Circular Queue implementation
+
+## Concepts Used
+- Circular Queue
+- Arrays
+- Functions
+- Menu-Driven Programming
+
+## Technologies Used
+- C Programming
+
+## Author
+Misbah Shaikh
